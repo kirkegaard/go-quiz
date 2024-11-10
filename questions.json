@@ -1,0 +1,547 @@
+[
+  {
+    "title": "Pokemon",
+    "questions": [
+      {
+        "question": "What type is Pikachu?",
+        "answers": ["Electric", "Water", "Fire", "Grass"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon evolves into Charizard?",
+        "answers": ["Charmander", "Bulbasaur", "Squirtle", "Pikachu"],
+        "answer": 0
+      },
+      {
+        "question": "How many original Pokemon were there in Generation 1?",
+        "answers": ["100", "151", "200", "50"],
+        "answer": 1
+      },
+      {
+        "question": "What is the evolution of Eevee with a Fire Stone?",
+        "answers": ["Flareon", "Vaporeon", "Jolteon", "Leafeon"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known as the 'Legendary Bird of Ice'?",
+        "answers": ["Moltres", "Zapdos", "Articuno", "Lugia"],
+        "answer": 2
+      },
+      {
+        "question": "What type of Pokemon is Snorlax?",
+        "answers": ["Normal", "Fighting", "Ghost", "Fairy"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known for its ability to sing opponents to sleep?",
+        "answers": ["Jigglypuff", "Clefairy", "Meowth", "Ditto"],
+        "answer": 0
+      },
+      {
+        "question": "What type of Pokeball has the highest catch rate?",
+        "answers": ["Ultra Ball", "Great Ball", "Master Ball", "Safari Ball"],
+        "answer": 2
+      },
+      {
+        "question": "Who is the leader of Team Rocket?",
+        "answers": ["Giovanni", "James", "Ash", "Professor Oak"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon can evolve into multiple different forms?",
+        "answers": ["Pikachu", "Eevee", "Snorlax", "Jigglypuff"],
+        "answer": 1
+      },
+      {
+        "question": "Which of these is a Water-type Pokemon?",
+        "answers": ["Bulbasaur", "Squirtle", "Charmander", "Pikachu"],
+        "answer": 1
+      },
+      {
+        "question": "What color is Shiny Gyarados?",
+        "answers": ["Blue", "Red", "Yellow", "Green"],
+        "answer": 1
+      },
+      {
+        "question": "Which Pokemon is known for its three heads?",
+        "answers": ["Doduo", "Dodrio", "Dugtrio", "Exeggutor"],
+        "answer": 3
+      },
+      {
+        "question": "What is Pikachu's evolved form?",
+        "answers": ["Raichu", "Pichu", "Pikachu", "Electivire"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known for its ability to transform?",
+        "answers": ["Ditto", "Eevee", "Mewtwo", "Meowth"],
+        "answer": 0
+      },
+      {
+        "question": "Which Legendary Pokemon is part of the 'Creation Trio'?",
+        "answers": ["Palkia", "Zapdos", "Mew", "Celebi"],
+        "answer": 0
+      },
+      {
+        "question": "What is the first Pokemon in the Pokedex?",
+        "answers": ["Pikachu", "Bulbasaur", "Charmander", "Squirtle"],
+        "answer": 1
+      },
+      {
+        "question": "Which type is weak against Electric-type moves?",
+        "answers": ["Flying", "Ground", "Fire", "Normal"],
+        "answer": 0
+      },
+      {
+        "question": "Which of these Pokemon is a Grass-type?",
+        "answers": ["Charmander", "Squirtle", "Bulbasaur", "Pikachu"],
+        "answer": 2
+      },
+      {
+        "question": "What is Ash's first Pokemon?",
+        "answers": ["Charmander", "Squirtle", "Pikachu", "Bulbasaur"],
+        "answer": 2
+      },
+      {
+        "question": "What type is the Pokemon Togepi?",
+        "answers": ["Fairy", "Normal", "Flying", "Psychic"],
+        "answer": 1
+      },
+      {
+        "question": "Which Pokemon is known for its love of eating and sleeping?",
+        "answers": ["Snorlax", "Jigglypuff", "Meowth", "Pikachu"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known as the 'Fire Horse'?",
+        "answers": ["Rapidash", "Ponyta", "Blaziken", "Charizard"],
+        "answer": 1
+      },
+      {
+        "question": "Which Pokemon can only evolve during the day?",
+        "answers": ["Umbreon", "Espeon", "Sylveon", "Vaporeon"],
+        "answer": 1
+      },
+      {
+        "question": "Which of these Pokemon can Mega Evolve?",
+        "answers": ["Mewtwo", "Pikachu", "Bulbasaur", "Squirtle"],
+        "answer": 0
+      },
+      {
+        "question": "Who is the Champion in the Johto region?",
+        "answers": ["Lance", "Brock", "Cynthia", "Giovanni"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon can learn the move 'Fly'?",
+        "answers": ["Charizard", "Golem", "Blastoise", "Snorlax"],
+        "answer": 0
+      },
+      {
+        "question": "What color is Shiny Charizard?",
+        "answers": ["Orange", "Black", "Purple", "Blue"],
+        "answer": 1
+      },
+      {
+        "question": "Which of these is a Dragon-type Pokemon?",
+        "answers": ["Dragonite", "Charizard", "Pikachu", "Bulbasaur"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon evolves with a Water Stone?",
+        "answers": ["Jolteon", "Vaporeon", "Flareon", "Leafeon"],
+        "answer": 1
+      },
+      {
+        "question": "What is the maximum level a Pokemon can reach?",
+        "answers": ["50", "75", "100", "150"],
+        "answer": 2
+      },
+      {
+        "question": "What type is the move 'Thunderbolt'?",
+        "answers": ["Electric", "Water", "Fire", "Grass"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon has the ability 'Levitate'?",
+        "answers": ["Gengar", "Charizard", "Golem", "Onix"],
+        "answer": 0
+      },
+      {
+        "question": "What type is the Pokemon Mewtwo?",
+        "answers": ["Psychic", "Electric", "Grass", "Fire"],
+        "answer": 0
+      },
+      {
+        "question": "What is the last Pokemon in the Pokedex?",
+        "answers": ["Mew", "Zygarde", "Melmetal", "Mewtwo"],
+        "answer": 2
+      },
+      {
+        "question": "What type is the Pokemon Bulbasaur?",
+        "answers": ["Grass/Poison", "Fire", "Electric", "Water"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known as the 'Mythical Pokemon'?",
+        "answers": ["Mew", "Pikachu", "Charizard", "Bulbasaur"],
+        "answer": 0
+      },
+      {
+        "question": "Which of these is a Psychic-type Pokemon?",
+        "answers": ["Alakazam", "Bulbasaur", "Gengar", "Charizard"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon evolves with a Moon Stone?",
+        "answers": ["Nidoking", "Clefairy", "Pikachu", "Squirtle"],
+        "answer": 1
+      },
+      {
+        "question": "Which of these Pokemon has no evolutions?",
+        "answers": ["Mewtwo", "Pikachu", "Eevee", "Snorlax"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon evolves into Blastoise?",
+        "answers": ["Squirtle", "Bulbasaur", "Charmander", "Jigglypuff"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known for its unique spiral shell?",
+        "answers": ["Poliwhirl", "Omanyte", "Kabuto", "Shellder"],
+        "answer": 1
+      },
+      {
+        "question": "Which Legendary Pokemon is part of the 'Weather Trio'?",
+        "answers": ["Rayquaza", "Articuno", "Zapdos", "Lugia"],
+        "answer": 0
+      },
+      {
+        "question": "What type is the move 'Hydro Pump'?",
+        "answers": ["Water", "Fire", "Electric", "Grass"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known for its sword-like arms?",
+        "answers": ["Scyther", "Pikachu", "Jigglypuff", "Ditto"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is part of the Legendary Beasts trio?",
+        "answers": ["Raikou", "Articuno", "Lugia", "Zapdos"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon can only be evolved at night?",
+        "answers": ["Umbreon", "Espeon", "Sylveon", "Vaporeon"],
+        "answer": 0
+      },
+      {
+        "question": "Which of these is a Steel-type Pokemon?",
+        "answers": ["Scizor", "Pikachu", "Charmander", "Bulbasaur"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known for its poisonous stinger?",
+        "answers": ["Beedrill", "Butterfree", "Caterpie", "Weedle"],
+        "answer": 0
+      },
+      {
+        "question": "What type of Pokemon is Gyarados?",
+        "answers": ["Water/Flying", "Fire", "Electric", "Grass"],
+        "answer": 0
+      },
+      {
+        "question": "Which Pokemon is known as the 'Electric Mouse'?",
+        "answers": ["Pikachu", "Charmander", "Bulbasaur", "Jigglypuff"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "title": "Programming",
+    "questions": [
+      {
+        "question": "Which language is primarily used for web development on the client side?",
+        "answers": ["Python", "JavaScript", "Java", "C++"],
+        "answer": 1
+      },
+      {
+        "question": "What does CSS stand for?",
+        "answers": [
+          "Computer Style Sheets",
+          "Cascading Style Sheets",
+          "Creative Style Sheets",
+          "Colorful Style Sheets"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "In Python, which keyword is used to define a function?",
+        "answers": ["func", "function", "def", "define"],
+        "answer": 2
+      },
+      {
+        "question": "What does SQL stand for?",
+        "answers": [
+          "Structured Query Language",
+          "Simple Query Language",
+          "Statement Query Language",
+          "Strong Query Language"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which programming language is known for its use in data science?",
+        "answers": ["HTML", "CSS", "R", "PHP"],
+        "answer": 2
+      },
+      {
+        "question": "What is the primary purpose of HTML?",
+        "answers": [
+          "To style web pages",
+          "To structure web pages",
+          "To add interactivity",
+          "To query databases"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which symbol is used to start a comment in JavaScript?",
+        "answers": ["//", "#", "/*", "<!--"],
+        "answer": 0
+      },
+      {
+        "question": "In JavaScript, which company created the language?",
+        "answers": ["Microsoft", "Sun Microsystems", "Netscape", "IBM"],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following is a front-end framework?",
+        "answers": ["Node.js", "React", "Django", "Flask"],
+        "answer": 1
+      },
+      {
+        "question": "What is the file extension for JavaScript files?",
+        "answers": [".java", ".js", ".jsx", ".py"],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following is a NoSQL database?",
+        "answers": ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
+        "answer": 1
+      },
+      {
+        "question": "Which programming language uses the .py extension?",
+        "answers": ["Python", "Ruby", "PHP", "Perl"],
+        "answer": 0
+      },
+      {
+        "question": "What does JSON stand for?",
+        "answers": [
+          "JavaScript Online Notation",
+          "Java Serialized Object Notation",
+          "JavaScript Object Notation",
+          "Java Object Notation"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of these is a back-end language?",
+        "answers": ["CSS", "JavaScript", "Python", "HTML"],
+        "answer": 2
+      },
+      {
+        "question": "In SQL, which command is used to retrieve data?",
+        "answers": ["SELECT", "GET", "FETCH", "SHOW"],
+        "answer": 0
+      },
+      {
+        "question": "Which programming language is known for its simplicity and readability?",
+        "answers": ["C", "Java", "Python", "Assembly"],
+        "answer": 2
+      },
+      {
+        "question": "In JavaScript, which of these is a way to declare a variable?",
+        "answers": ["def", "var", "define", "function"],
+        "answer": 1
+      },
+      {
+        "question": "Which framework is commonly used for Python web development?",
+        "answers": ["Angular", "Django", "React", "Vue"],
+        "answer": 1
+      },
+      {
+        "question": "What type of programming language is C?",
+        "answers": ["Functional", "Object-Oriented", "Procedural", "Logical"],
+        "answer": 2
+      },
+      {
+        "question": "In Java, what is used to define the blueprint of an object?",
+        "answers": ["Class", "Method", "Function", "Module"],
+        "answer": 0
+      },
+      {
+        "question": "Which language is primarily used for developing iOS applications?",
+        "answers": ["Java", "Swift", "Kotlin", "C#"],
+        "answer": 1
+      },
+      {
+        "question": "What is a boolean data type?",
+        "answers": [
+          "A number",
+          "A string",
+          "True or False",
+          "A floating point"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which language is often used for Android development?",
+        "answers": ["Swift", "Ruby", "Kotlin", "PHP"],
+        "answer": 2
+      },
+      {
+        "question": "Which of these is a version control system?",
+        "answers": ["Git", "JIRA", "npm", "Webpack"],
+        "answer": 0
+      },
+      {
+        "question": "Which of these is an interpreted language?",
+        "answers": ["C++", "Java", "Python", "C"],
+        "answer": 2
+      },
+      {
+        "question": "What does OOP stand for?",
+        "answers": [
+          "Original Object Program",
+          "Object-Oriented Programming",
+          "Object Output Protocol",
+          "Object Option Programming"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which symbol is used for comparison in Python?",
+        "answers": ["=", "==", "<>", "::"],
+        "answer": 1
+      },
+      {
+        "question": "In web development, what does DOM stand for?",
+        "answers": [
+          "Document Object Model",
+          "Data Object Method",
+          "Domain Object Manager",
+          "Display Order Module"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which of these is a method for storing key-value pairs?",
+        "answers": ["Array", "List", "Dictionary", "Set"],
+        "answer": 2
+      },
+      {
+        "question": "Which language is primarily used for AI and machine learning?",
+        "answers": ["Java", "Python", "HTML", "CSS"],
+        "answer": 1
+      },
+      {
+        "question": "Which of these is a package manager for JavaScript?",
+        "answers": ["PIP", "npm", "Maven", "Composer"],
+        "answer": 1
+      },
+      {
+        "question": "In SQL, which keyword is used to filter results?",
+        "answers": ["WHERE", "SELECT", "ORDER", "JOIN"],
+        "answer": 0
+      },
+      {
+        "question": "Which of these is a front-end technology?",
+        "answers": ["React", "Node.js", "Express", "MongoDB"],
+        "answer": 0
+      },
+      {
+        "question": "In HTML, what is the purpose of the <a> tag?",
+        "answers": [
+          "To display images",
+          "To add links",
+          "To style text",
+          "To create forms"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does the command 'git commit' do?",
+        "answers": [
+          "Deletes a file",
+          "Adds a file to the staging area",
+          "Records changes to the repository",
+          "Creates a new branch"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which symbol is used to denote an ID in CSS?",
+        "answers": [".", "#", ":", "@"],
+        "answer": 1
+      },
+      {
+        "question": "In Python, which of these is used to create a list?",
+        "answers": ["()", "[]", "{}", "<>"],
+        "answer": 1
+      },
+      {
+        "question": "What does the acronym API stand for?",
+        "answers": [
+          "Application Programming Interface",
+          "Automatic Programming Interface",
+          "Automated Program Interaction",
+          "Application Plug-In"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which of these languages is primarily used for server-side scripting?",
+        "answers": ["JavaScript", "HTML", "PHP", "CSS"],
+        "answer": 2
+      },
+      {
+        "question": "What is the main function of a loop in programming?",
+        "answers": [
+          "To make a decision",
+          "To perform repetitive tasks",
+          "To store data",
+          "To define a variable"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which HTML element is used to create a numbered list?",
+        "answers": ["<ul>", "<ol>", "<li>", "<dl>"],
+        "answer": 1
+      },
+      {
+        "question": "What is an IDE?",
+        "answers": [
+          "An Internet Download Extension",
+          "A development environment",
+          "An image editor",
+          "An integrated device"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which of these is a common data structure?",
+        "answers": ["List", "Line", "Grid", "Plane"],
+        "answer": 0
+      },
+      {
+        "question": "Which command initializes a new Git repository?",
+        "answers": ["git start", "git init", "git create", "git repo"],
+        "answer": 1
+      }
+    ]
+  }
+]
